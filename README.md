@@ -4,7 +4,6 @@
 Kelly Alvarez, Nishant Rathi, Anthony Bell
 
 
-
 ## Introduction
 Amazon suggests certain items to users based on their most recent search history or purchases.
 
@@ -26,3 +25,10 @@ Finally, they will be able to view suggested items based on their popularity via
 - Record activity and login time based on geographic location
 - Compare user’s preferences based on rating and product price
 
+
+## High Level Architecture
+![picture alt](images/architecture.png)
+
+
+## Scorecard
+![picture alt](images/scorecard.png)
